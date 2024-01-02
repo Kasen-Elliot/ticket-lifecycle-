@@ -36,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<!-- <img src="https://github.com/Kasen-Elliot/ticket-lifecycle-/assets/127895952/9ddbc9bb-1352-42c5-b0b9-11d643243941"/> -->
+<!-- <img src="https://github.com/Kasen-Elliot/ticket-lifecycle-/assets/127895952/d3cd4aa2-7713-4990-8fdb-921ffd356f33"/> -->
 
 <h3>Intake</h3>
 
