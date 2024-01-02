@@ -36,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<!-- <img src="https://github.com/Kasen-Elliot/ticket-lifecycle-/assets/127895952/d3cd4aa2-7713-4990-8fdb-921ffd356f33"/> -->
+
 
 <h3>Intake</h3>
 
@@ -44,7 +44,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <ul>
     <li>From the <b>End User's</b> side (Karen Karen), they create a ticket through osTicket's <a href = "http://localhost/osTicket/ ">local host site</a> and fill their information, select a Help Topic</li>
     <ul>
-      <li><img src="https://github.com/Kasen-Elliot/ticket-lifecycle-/assets/127895952/5a484ff8-edbd-4a1d-8b80-327e0ddbfaa1" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Kasen-Elliot/ticket-lifecycle-/assets/127895952/d3cd4aa2-7713-4990-8fdb-921ffd356f33" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>The End User then writes ticket through the <b>Issue Summary</b> and adds a subject and details of the ticket much similar to writing an email</li>
     <ul>
